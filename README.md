@@ -1,7 +1,10 @@
+<div align="center">
 
-<img src="https://github.com/BeshoyMeshel/BeshoyMeshel/blob/main/Red%20and%20Black%20Modern%20Bold%20Thanks%20For%20Watching%20YouTube%20Outro%20Video.gif?raw=true" alt="Animated Banner" width="60%"/>
+<!-- Animated Banner -->
+<img src="https://github.com/BeshoyMeshel/BeshoyMeshel/blob/main/Red%20and%20Black%20Modern%20Bold%20Thanks%20For%20Watching%20YouTube%20Outro%20Video.gif?raw=true" alt="Animated Banner" width="50%"/>  
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+<!-- Workspace GIF -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%"/>
 
 ---
 
@@ -38,6 +41,7 @@
 - 🚗 [German Cars](https://github.com/BeshoyMeshel/German-cars) – Car listing website with filters, search & favorites  
 - ✅ [Todo List App](https://github.com/BeshoyMeshel/todo-list) – Task management app with add, edit, filter & delete features  
 - 🎨 [Portfolio Website](https://github.com/BeshoyMeshel/Portfolio) – Personal portfolio showcasing your projects & skills  
+
 ---
 
 ### 📊 GitHub Stats
@@ -55,5 +59,3 @@
 </a>
 
 </div>
-
-
