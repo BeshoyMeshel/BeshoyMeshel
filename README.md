@@ -11,9 +11,15 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=BishoyMichel&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BishoyMichel&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Telegram-Chat-blue?style=flat&logo=telegram)](https://t.me/YourRealTelegramUser)
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=besho&style=flat&color=orange&label=PROFILE+VIEWS)
+
+<!-- Hits Counter -->
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbesho&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
+<!-- Telegram Badge -->
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourtelegramusername)
+
 
 
 ---
