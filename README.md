@@ -1,8 +1,14 @@
 <div align="center">
 
   <!-- الصورة الأولى -->
-  <img src="https://github.com/BeshoyMeshel/BeshoyMeshel/blob/main/Red%20and%20Black%20Modern%20Bold%20Thanks%20For%20Watching%20YouTube%20Outro%20Video.gif?raw=true" alt="Custom Gif" width="500"/>
+ <p align="center">
+  <!-- الصورة الأولى -->
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="300"/><br>
+
+  <!-- الصورة الثانية (المستطيل اللي عملته) -->
+  <img src="https://github.com/BeshoyMeshel/BeshoyMeshel/blob/main/Red%20and%20Black%20Modern%20Bold%20Thanks%20For%20Watching%20YouTube%20Outro%20Video.gif?raw=true" alt="Custom Gif" width="500"/>
+</p>
+
 
   <!-- الصورة الثانية (المستطيل اللي عملته) -->
 
