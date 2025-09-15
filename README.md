@@ -3,24 +3,20 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
+---
+
 ### 👋 Hi, I'm Bishoy Meshel
 
 💻 **Frontend Developer** passionate about building interactive and user-friendly web applications with **React.js + Next.js + TailwindCSS**.  
 🚀 My goal is to be job-ready and land a frontend developer role by **August 2025**.  
-📚 Currently learning **APIs + NestJS + Best Practices** and working on real projects to improve my skills.
+📚 Currently learning **APIs + NestJS + Best Practices** and building real projects to level up my skills.
 
 ---
 
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=besho&style=flat&color=orange&label=PROFILE+VIEWS)
-
-<!-- Hits Counter -->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbesho&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-
-<!-- Telegram Badge -->
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourtelegramusername)
-
-
+### 🌱 Current Focus
+- Mastering **APIs & NestJS**
+- Following **Clean Code & Best Practices**
+- Building **Real-World Projects** for my portfolio
 
 ---
 
@@ -36,5 +32,31 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
+---
+
+### 📌 Featured Projects
+- 🚗 [Shop Cars](https://github.com/yourusername/shop-cars) – Car listing website with filters, search & favorites  
+- 🦷 [Dental Management System](https://github.com/yourusername/dental-dashboard) – Dentist dashboard to manage patients & appointments  
+
+---
+
+### 📊 GitHub Stats
+![Bishoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=besho&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=besho&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🤝 Connect with Me
+<a href="https://www.linkedin.com/in/yourlinkedinusername" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://t.me/yourtelegramusername" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+</a>
+<a href="mailto:youremail@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+
 </div>
+
 
