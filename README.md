@@ -4,10 +4,8 @@
 
    <p align="center">
   <!-- الصورة الأولى -->
-  <img src="https://github.com/BeshoyMeshel/BeshoyMeshel/blob/main/Red%20and%20Black%20Modern%20Bold%20Thanks%20For%20Watching%20YouTube%20Outro%20Video.gif?raw=true" 
-       alt="Custom Gif" 
-       width="500" 
-       height="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+Developers,+I'm+Besho+Meshel;Frontend+Developer" alt="Typing SVG" />
+
 
   <br/> <!-- سطر جديد -->
 
