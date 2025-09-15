@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://github.com/BeshoyMeshel/BeshoyMeshel/blob/main/Red%20and%20Black%20Modern%20Bold%20Thanks%20For%20Watching%20YouTube%20Outro%20Video.gif?raw=true" alt="Animated Banner" width="50%"/>  
+  <!-- الصورة الأولى -->
+  <img src="https://github.com/BeshoyMeshel/BeshoyMeshel/blob/main/Red%20and%20Black%20Modern%20Bold%20Thanks%20For%20Watching%20YouTube%20Outro%20Video.gif?raw=true" alt="Custom Gif" width="500"/>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="300"/><br>
 
-<!-- Workspace GIF -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%"/>
+  <!-- الصورة الثانية (المستطيل اللي عملته) -->
+
 
 ---
 
