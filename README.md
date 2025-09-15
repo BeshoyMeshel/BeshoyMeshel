@@ -50,10 +50,7 @@
 <a href="https://www.linkedin.com/in/beshoy-meshel-8177bb268/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://t.me/yourtelegramusername" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:beshomeshel15@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
 
