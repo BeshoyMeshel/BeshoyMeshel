@@ -1,17 +1,23 @@
 <div align="center">
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hey, I'm <span style="color:#38BDF8;">Bishoy</span> 👋
-</h2>
+<div align="center">
+  <div style="
+    width: 150px;
+    height: 80px;
+    background: white;
+    animation: toggle 2s infinite alternate;
+    border: 2px solid #000;
+  "></div>
+</div>
 
-<p align="center">
-  <b>Frontend Developer</b> | React.js + Next.js + TailwindCSS
-</p>
+<style>
+@keyframes toggle {
+  0%   { opacity: 1; transform: scaleX(1); }
+  50%  { opacity: 0; transform: scaleX(0); }
+  100% { opacity: 1; transform: scaleX(1); }
+}
+</style>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+modern+web+apps;Learning+NestJS+%26+APIs;Landing+my+frontend+job+in+2025" alt="Typing Animation" />
-</p>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
 ---
