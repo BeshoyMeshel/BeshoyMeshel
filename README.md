@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Besho  
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/besho157/besho157/main/assets/cover.png" alt="cover" />
+  <img width="100%" src="./assets/cover.png" alt="cover" />
 </div>
 
 <table>
@@ -16,7 +16,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img width="80%" src="https://raw.githubusercontent.com/besho157/besho157/main/assets/skills.png" alt="skills" />
+        <img width="80%" src="./assets/skills.png" alt="skills" />
       </td>
     </tr>
   </tbody>
@@ -28,9 +28,9 @@
 I am **Besho**, a passionate **Front-End Developer** with a strong focus on building modern, responsive, and user-friendly applications.  
 My favorite stack is **React.js**, **Next.js**, and **NestJS**, and I’m always learning and building new projects to improve my skills.
 
-- 🚀 Building scalable apps with reusable components
-- 🎨 Creating beautiful, clean, and responsive UI/UX
-- 🧠 Continuously learning new technologies to grow as a developer
+- 🚀 Building scalable apps with reusable components  
+- 🎨 Creating beautiful, clean, and responsive UI/UX  
+- 🧠 Continuously learning new technologies to grow as a developer  
 
 <br /><br />
 
