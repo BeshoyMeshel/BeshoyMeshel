@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
+<h2 align="center">👋 Hey, I'm Bishoy Meshel</h2>
+<p align="center">
+  <b>Frontend Developer</b> | React.js + Next.js + TailwindCSS  
+  <br>
+  🚀 Focused on building real-world projects & becoming job-ready by <b>August 2025</b>
+</p>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
 ---
