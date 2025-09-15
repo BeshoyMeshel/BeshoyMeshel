@@ -3,15 +3,15 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
-### 👋 أهلاً! أنا بيشوي ميشل
+### 👋 Hi, I'm Bishoy Michel
 
-💻 **Frontend Developer** مهتم بإنشاء تطبيقات ويب تفاعلية باستخدام **React.js + Next.js + TailwindCSS**  
-🚀 هدفي إني أكون جاهز وأبدأ شغل في المجال من أغسطس 🎯  
-📚 حالياً مركز على تعلم **APIs + NestJS + Best Practices** وبشتغل على مشاريع حقيقية عشان أطوّر مهاراتي.
+💻 **Frontend Developer** passionate about building interactive and user-friendly web applications with **React.js + Next.js + TailwindCSS**.  
+🚀 My goal is to be job-ready and land a frontend developer role by **August 2025**.  
+📚 Currently learning **APIs + NestJS + Best Practices** and working on real projects to improve my skills.
 
 ---
 
-### 🎧 أنا غالباً بكوّد وأنا بسمع:
+### 🎧 What I'm Listening To While Coding
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ أدواتي المفضلة
+### 🛠️ Tools & Technologies
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -38,9 +38,9 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ```js
-// focus right now:
+// Current focus:
 const myFocus = {
   learning: ["APIs", "NestJS", "React Best Practices"],
-  building: ["Dental System", "Shop Cars Project"],
+  building: ["Dental Management System", "Shop Cars Project"],
   goal: "Get a Frontend job by August 2025"
 };
