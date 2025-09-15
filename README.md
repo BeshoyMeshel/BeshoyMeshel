@@ -35,9 +35,9 @@
 ---
 
 ### 📌 Featured Projects
-- 🚗 [Shop Cars](https://github.com/yourusername/shop-cars) – Car listing website with filters, search & favorites  
-- 🦷 [Dental Management System](https://github.com/yourusername/dental-dashboard) – Dentist dashboard to manage patients & appointments  
-
+- 🚗 [German Cars](https://github.com/BeshoyMeshel/German-cars) – Car listing website with filters, search & favorites  
+- ✅ [Todo List App](https://github.com/BeshoyMeshel/todo-list) – Task management app with add, edit, filter & delete features  
+- 🎨 [Portfolio Website](https://github.com/BeshoyMeshel/Portfolio) – Personal portfolio showcasing your projects & skills  
 ---
 
 ### 📊 GitHub Stats
@@ -47,7 +47,7 @@
 ---
 
 ### 🤝 Connect with Me
-<a href="https://www.linkedin.com/in/yourlinkedinusername" target="_blank">
+<a href="https://www.linkedin.com/in/beshoy-meshel-8177bb268/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://t.me/yourtelegramusername" target="_blank">
