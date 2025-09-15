@@ -1,69 +1,46 @@
-# 👋 Hi there, I'm Besho  
-
 <div align="center">
-  <img width="100%" src="./assets/cover.png" alt="cover" />
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+
+### 👋 أهلاً! أنا بيشوي ميشل
+
+💻 **Frontend Developer** مهتم بإنشاء تطبيقات ويب تفاعلية باستخدام **React.js + Next.js + TailwindCSS**  
+🚀 هدفي إني أكون جاهز وأبدأ شغل في المجال من أغسطس 🎯  
+📚 حالياً مركز على تعلم **APIs + NestJS + Best Practices** وبشتغل على مشاريع حقيقية عشان أطوّر مهاراتي.
+
+---
+
+### 🎧 أنا غالباً بكوّد وأنا بسمع:
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=besho&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbesho&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/yourtelegramusername)
+
 </div>
 
-<table>
-  <thead>
-    <tr>
-      <td align="center">
-        <span><strong>Programming Languages & Frameworks</strong></span>
-      </td>
-    </tr>
-  </thead>
-  <br /><br />
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="80%" src="./assets/skills.png" alt="skills" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+---
 
-<br /><br />
+### 🛠️ أدواتي المفضلة
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-## 💻 About Me
-I am **Besho**, a passionate **Front-End Developer** with a strong focus on building modern, responsive, and user-friendly applications.  
-My favorite stack is **React.js**, **Next.js**, and **NestJS**, and I’m always learning and building new projects to improve my skills.
-
-- 🚀 Building scalable apps with reusable components  
-- 🎨 Creating beautiful, clean, and responsive UI/UX  
-- 🧠 Continuously learning new technologies to grow as a developer  
-
-<br /><br />
-
-## 📂 Featured Projects
-- 🛒 **[German Car](https://german-cars.vercel.app/)** – Car listing app with search, filters, and details page  
-- 🎨 **[Portfolio Website](https://portfolio-chi-eosin-36.vercel.app/)** – Showcasing my projects & skills with a clean UI  
-- ✅ **[Todo List](https://todo-list-7w9.pages.dev/)** – Minimalistic and interactive to-do app  
-
-<br /><br />
-
-## 📊 My GitHub Stats
-
-<a href="https://github.com/besho157">
-  <img align="center" src="https://api.githubtrends.io/user/svg/besho157/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
-</a>
-
-<a href="https://github.com/besho157">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=besho157&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="besho157's github stats"/>
-</a>
-
-<br /><br />
-
-## 🏆 Badges
-[![@besho157's Holopin board](https://holopin.io/api/user/board?user=besho157)](https://www.holopin.io/@besho157)
-
-<br /><br />
-
-## 🌐 Connect With Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
-</div>
+```js
+// focus right now:
+const myFocus = {
+  learning: ["APIs", "NestJS", "React Best Practices"],
+  building: ["Dental System", "Shop Cars Project"],
+  goal: "Get a Frontend job by August 2025"
+};
