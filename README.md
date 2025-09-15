@@ -4,7 +4,7 @@
 
    <p align="center">
   <!-- الصورة الأولى -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+Developers,+I'm+Besho+Meshel;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+Developers,+I'm+Beshoy+Meshel;Frontend+Developer" alt="Typing SVG" />
 
 
   <br/> <!-- سطر جديد -->
@@ -22,7 +22,7 @@
 
 ---
 
-### 👋 Hi, I'm Bishoy Meshel
+### 👋 Hi, I'm Beshoy Meshel
 
 💻 **Frontend Developer** passionate about building interactive and user-friendly web applications with **React.js + Next.js + TailwindCSS**.  
 🚀 My goal is to be job-ready and land a frontend developer role by **August 2025**.  
