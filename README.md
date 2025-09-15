@@ -1,22 +1,5 @@
-<div align="center">
 
-<div align="center">
-  <div style="
-    width: 150px;
-    height: 80px;
-    background: white;
-    animation: toggle 2s infinite alternate;
-    border: 2px solid #000;
-  "></div>
-</div>
-
-<style>
-@keyframes toggle {
-  0%   { opacity: 1; transform: scaleX(1); }
-  50%  { opacity: 0; transform: scaleX(0); }
-  100% { opacity: 1; transform: scaleX(1); }
-}
-</style>
+<img src="https://github.com/BeshoyMeshel/BeshoyMeshel/blob/main/Red%20and%20Black%20Modern%20Bold%20Thanks%20For%20Watching%20YouTube%20Outro%20Video.gif?raw=true" alt="Animated Banner" width="60%"/>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
